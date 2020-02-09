@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 17.684 sec <<< FAILURE!
+testcase001(com.altimetrik.selenium.assessment.TC001)  Time elapsed: 1.979 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.fail(Assert.java:102)
+	at com.altimetrik.selenium.assessment.TC001.testcase001(TC001.java:82)
+
+testcase001(com.altimetrik.selenium.assessment.TC001)  Time elapsed: 2.002 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.fail(Assert.java:102)
+	at com.altimetrik.selenium.assessment.TC001.testcase001(TC001.java:82)
+

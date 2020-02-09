@@ -1,0 +1,6 @@
+2020-02-07 17:56:20 INFO  TC001:41 - Title Successfully Validated
+2020-02-07 17:56:21 ERROR TC001:80 - No Match Found
+2020-02-07 17:56:21 ERROR Listener:37 - ***** Error testcase001 has failed *****
+2020-02-07 17:56:22 INFO  TC001:41 - Title Successfully Validated
+2020-02-07 17:56:23 ERROR TC001:80 - No Match Found
+2020-02-07 17:56:23 ERROR Listener:37 - ***** Error testcase001 has failed *****
